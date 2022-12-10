@@ -1,17 +1,24 @@
+<!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" href="/style.css">
+    <script src="login.js"></script>
+    <script src="../test/api.js"></script>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <form action="/authenticate" method="post">
-        <h2>Login</h2>
-        <div class="input-field">
-            <input type="text" name="username" id="username" placeholder="Enter Username">
-        </div>
-        <div class="input-field">
-            <input type="password" name="password" id="password" placeholder="Enter Password">
-        </div>
-        <input type="submit" value="LogIn">
+    <h1 style="text-align:center">login side</h1>
+    <form id="form" style="text-align:center">
+        <input placeholder = "Indtast din Email" id="email" />
+        <input placeholder = "Indtast din Password" id="password" />
+        <input placeholder = "" type="submit" />
     </form>
+
+    <form style="text-align:center">
+        <p> Ingen bruger?</p>
+       
+        <input type ="button" onclick="window.location.href='http://localhost:8080/opret.html';" value="opret bruger" />
+
+    </form>
+
 </body>
 </html>

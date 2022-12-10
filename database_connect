@@ -1,0 +1,19 @@
+var Connection = require('tedious').Connection;
+var Request = require('tedious').Request
+
+// vi loader vores connection med vores config
+const config = require('./config.json')
+
+const RegisterUser = (username, password) => {
+    db.run(
+      'insert into users (username, password) values (?, ?)', 
+      [username, password], 
+      function(err) {
+        if (err) {
+          console.error(err);
+        }
+      }
+    );
+  }
+
+module.exports = {RegisterUser}

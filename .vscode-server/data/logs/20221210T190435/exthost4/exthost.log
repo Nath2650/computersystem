@@ -1,0 +1,8 @@
+2022-12-10 20:05:45.165 [info] Extension host with pid 19112 started
+2022-12-10 20:05:49.396 [error] Error: EEXIST: file already exists, open '/root/.vscode-server/data/User/workspaceStorage/449842f3163eeccba8cbe8883fc540dc/vscode.lock'
+2022-12-10 20:05:51.506 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/449842f3163eeccba8cbe8883fc540dc/vscode.lock': Could not acquire lock, checking if the file is stale.
+2022-12-10 20:05:53.920 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/449842f3163eeccba8cbe8883fc540dc/vscode.lock': The lock does not look stale, elapsed: 902 ms, giving up.
+2022-12-10 20:05:56.076 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/449842f3163eeccba8cbe8883fc540dc-1/vscode.lock': Lock acquired.
+2022-12-10 20:30:05.874 [info] Extension host terminating: received terminate message from renderer
+2022-12-10 20:30:05.876 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/449842f3163eeccba8cbe8883fc540dc-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-12-10 20:30:05.878 [info] Extension host with pid 19112 exiting with code 0

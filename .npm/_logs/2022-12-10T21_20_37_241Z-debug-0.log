@@ -1,0 +1,94 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@8.18.0
+2 info using node@v18.7.0
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 3ms
+5 timing config:load:file:/usr/share/nodejs/npm/npmrc Completed in 6ms
+6 timing config:load:builtin Completed in 7ms
+7 timing config:load:cli Completed in 5ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:file:/root/.cache/typescript/4.9/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 10ms
+11 timing config:load:file:/root/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:validate Completed in 0ms
+16 timing config:load:credentials Completed in 3ms
+17 timing config:load:setEnvs Completed in 3ms
+18 timing config:load Completed in 35ms
+19 timing npm:load:configload Completed in 36ms
+20 timing npm:load:mkdirpcache Completed in 3ms
+21 timing npm:load:mkdirplogs Completed in 2ms
+22 verbose title npm install @types/tedious@ts4.9
+23 verbose argv "install" "--ignore-scripts" "@types/tedious@ts4.9" "--save-dev" "--user-agent" "typesInstaller/4.9.3"
+24 timing npm:load:setTitle Completed in 3ms
+25 timing config:load:flatten Completed in 8ms
+26 timing npm:load:display Completed in 11ms
+27 verbose logfile logs-max:10 dir:/root/.npm/_logs
+28 verbose logfile /root/.npm/_logs/2022-12-10T21_20_37_241Z-debug-0.log
+29 timing npm:load:logFile Completed in 17ms
+30 timing npm:load:timers Completed in 0ms
+31 timing npm:load:configScope Completed in 0ms
+32 timing npm:load Completed in 74ms
+33 timing arborist:ctor Completed in 2ms
+34 silly logfile start cleaning logs, removing 1 files
+35 silly logfile done cleaning log files
+36 timing idealTree:init Completed in 82ms
+37 timing arborist:ctor Completed in 0ms
+38 http fetch GET 200 https://registry.npmjs.org/@types%2ftedious 1720ms (cache miss)
+39 timing idealTree:userRequests Completed in 1735ms
+40 silly idealTree buildDeps
+41 silly fetch manifest @types/tedious@4.0.9
+42 silly placeDep ROOT @types/tedious@4.0.9 OK for:  want: 4.0.9
+43 timing idealTree:#root Completed in 12ms
+44 timing idealTree:node_modules/@types/tedious Completed in 0ms
+45 timing idealTree:buildDeps Completed in 16ms
+46 timing idealTree:fixDepFlags Completed in 1ms
+47 timing idealTree Completed in 1836ms
+48 timing reify:loadTrees Completed in 1838ms
+49 timing reify:diffTrees Completed in 6ms
+50 silly reify moves {}
+51 timing reify:retireShallow Completed in 5ms
+52 timing reify:createSparse Completed in 3ms
+53 timing reify:loadBundles Completed in 0ms
+54 silly audit bulk request {
+54 silly audit   '@types/body-parser': [ '1.19.2' ],
+54 silly audit   '@types/connect': [ '3.4.35' ],
+54 silly audit   '@types/cors': [ '2.8.13' ],
+54 silly audit   '@types/express': [ '4.17.14' ],
+54 silly audit   '@types/express-serve-static-core': [ '4.17.31' ],
+54 silly audit   '@types/express-session': [ '1.17.5' ],
+54 silly audit   '@types/merge-descriptors': [ '1.0.1' ],
+54 silly audit   '@types/mime': [ '3.0.1' ],
+54 silly audit   '@types/node': [ '18.11.13' ],
+54 silly audit   '@types/nodemon': [ '1.19.2' ],
+54 silly audit   '@types/qs': [ '6.9.7' ],
+54 silly audit   '@types/range-parser': [ '1.2.4' ],
+54 silly audit   '@types/serve-static': [ '1.15.0' ],
+54 silly audit   '@types/sqlite3': [ '3.1.8' ],
+54 silly audit   'types-registry': [ '0.1.621' ],
+54 silly audit   '@types/tedious': [ '4.0.9' ]
+54 silly audit }
+55 silly tarball no local data for @types/tedious@https://registry.npmjs.org/@types/tedious/-/tedious-4.0.9.tgz. Extracting by manifest.
+56 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 236ms
+57 timing auditReport:getReport Completed in 243ms
+58 silly audit report {}
+59 timing auditReport:init Completed in 0ms
+60 timing reify:audit Completed in 245ms
+61 http fetch GET 200 https://registry.npmjs.org/@types/tedious/-/tedious-4.0.9.tgz 816ms (cache miss)
+62 timing reifyNode:node_modules/@types/tedious Completed in 840ms
+63 timing reify:unpack Completed in 842ms
+64 timing reify:unretire Completed in 0ms
+65 timing build:queue Completed in 1ms
+66 timing build:deps Completed in 3ms
+67 timing build Completed in 3ms
+68 timing reify:build Completed in 3ms
+69 timing reify:trash Completed in 1ms
+70 timing reify:save Completed in 41ms
+71 timing reify Completed in 2806ms
+72 silly ADD node_modules/@types/tedious
+73 timing command:install Completed in 2826ms
+74 verbose exit 0
+75 timing npm Completed in 3252ms
+76 info ok

@@ -1,0 +1,11 @@
+2022-12-10 20:03:30.116 [info] Extension host with pid 18981 started
+2022-12-10 20:03:32.775 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-10 20:03:34.152 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-10 20:03:34.154 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-10 20:03:48.074 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 20:03:48.075 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 20:03:48.081 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 20:03:48.081 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 20:03:49.664 [info] Eager extensions activated
+2022-12-10 20:04:32.714 [info] Extension host terminating: received terminate message from renderer
+2022-12-10 20:04:32.792 [info] Extension host with pid 18981 exiting with code 0
