@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "remote.SSH.remotePlatform": {
+        "165.22.207.251": "linux",
+        "161.35.146.60": "linux"
+    }
+}

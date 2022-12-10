@@ -1,0 +1,178 @@
+2022-12-10 18:29:53.315 [info] Extension host agent started.
+2022-12-10 18:29:53.573 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2022-12-10 18:29:53.635 [info] [127.0.0.1][cb719902][ManagementConnection] New connection established.
+2022-12-10 18:29:53.649 [info] [127.0.0.1][10fe5ad7][ExtensionHostConnection] New connection established.
+2022-12-10 18:29:53.668 [info] [127.0.0.1][10fe5ad7][ExtensionHostConnection] <9968> Launched Extension Host Process.
+2022-12-10 18:29:53.710 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2022-12-10 18:30:14.278 [info] [127.0.0.1][cb719902][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-10 18:30:14.422 [info] [127.0.0.1][10fe5ad7][ExtensionHostConnection] <9968> Extension Host Process exited with code: 0, signal: null.
+2022-12-10 18:30:14.423 [info] Last EH closed, waiting before shutting down
+2022-12-10 18:30:20.174 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-10 18:30:20.174 [info] Cancelling previous shutdown timeout
+2022-12-10 18:30:20.292 [info] [127.0.0.1][8718b8eb][ManagementConnection] New connection established.
+2022-12-10 18:30:20.333 [info] [127.0.0.1][6376b893][ExtensionHostConnection] New connection established.
+2022-12-10 18:30:20.345 [info] [127.0.0.1][6376b893][ExtensionHostConnection] <10098> Launched Extension Host Process.
+2022-12-10 18:30:23.418 [error] CodeExpectedError: Could not find pty on pty host
+    at h.J (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:27:6395)
+    at h.updateTitle (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:27:2665)
+    at Object.call (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:17:5110)
+    at r.q (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:5390)
+    at r.p (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:4881)
+    at /root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:4286
+    at n.invoke (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at C.deliver (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:2038)
+    at v.fire (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:1676)
+    at process.O (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:9:20886)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2022-12-10 18:30:40.376 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:31:01.785 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:31:09.729 [error] No ptyHost heartbeat after 12 seconds
+2022-12-10 18:31:28.622 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:31:35.136 [error] No ptyHost heartbeat after 12 seconds
+2022-12-10 18:31:57.426 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:32:07.575 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:32:18.650 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:32:31.989 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:32:50.390 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:33:24.758 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:33:38.165 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-10 18:33:39.047 [info] Cancelling previous shutdown timeout
+2022-12-10 18:33:54.132 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:34:05.130 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:34:23.707 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:34:52.125 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:35:05.576 [error] No ptyHost heartbeat after 12 seconds
+2022-12-10 18:35:50.217 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:36:17.203 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:36:37.723 [error] No ptyHost heartbeat after 12 seconds
+2022-12-10 18:39:22.375 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-10 18:39:48.955 [info] Cancelling previous shutdown timeout
+2022-12-10 18:40:25.091 [info] [127.0.0.1][8718b8eb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-10 18:40:33.801 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:40:38.940 [error] No ptyHost heartbeat after 12 seconds
+2022-12-10 18:40:39.458 [info] [127.0.0.1][6376b893][ExtensionHostConnection] <10098> Extension Host Process exited with code: 0, signal: null.
+2022-12-10 18:40:39.458 [info] Cancelling previous shutdown timeout
+2022-12-10 18:40:39.458 [info] Last EH closed, waiting before shutting down
+2022-12-10 18:40:51.386 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-10 18:40:51.386 [info] Cancelling previous shutdown timeout
+2022-12-10 18:40:51.563 [info] [127.0.0.1][dd37db23][ManagementConnection] New connection established.
+2022-12-10 18:40:51.621 [info] [127.0.0.1][d2a0d9f1][ExtensionHostConnection] New connection established.
+2022-12-10 18:40:51.651 [info] [127.0.0.1][d2a0d9f1][ExtensionHostConnection] <10746> Launched Extension Host Process.
+2022-12-10 18:41:15.139 [info] [127.0.0.1][dd37db23][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-10 18:41:15.197 [info] [127.0.0.1][d2a0d9f1][ExtensionHostConnection] <10746> Extension Host Process exited with code: 0, signal: null.
+2022-12-10 18:41:15.198 [info] Cancelling previous shutdown timeout
+2022-12-10 18:41:15.198 [info] Last EH closed, waiting before shutting down
+2022-12-10 18:41:22.893 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-10 18:41:22.893 [info] Cancelling previous shutdown timeout
+2022-12-10 18:41:23.022 [info] [127.0.0.1][1d75d956][ManagementConnection] New connection established.
+2022-12-10 18:41:23.059 [info] [127.0.0.1][9afcdb64][ExtensionHostConnection] New connection established.
+2022-12-10 18:41:23.073 [info] [127.0.0.1][9afcdb64][ExtensionHostConnection] <10875> Launched Extension Host Process.
+2022-12-10 18:41:25.704 [error] CodeExpectedError: Could not find pty on pty host
+    at h.J (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:27:6395)
+    at h.updateTitle (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:27:2665)
+    at Object.call (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:17:5110)
+    at r.q (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:5390)
+    at r.p (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:4881)
+    at /root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:4286
+    at n.invoke (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at C.deliver (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:2038)
+    at v.fire (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:1676)
+    at process.O (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:9:20886)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2022-12-10 18:41:52.930 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:42:35.097 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:42:42.943 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:43:26.256 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:43:37.362 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:43:48.869 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:44:01.619 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:44:08.816 [error] No ptyHost heartbeat after 12 seconds
+2022-12-10 18:44:17.186 [info] [127.0.0.1][1d75d956][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-10 18:44:17.943 [info] [127.0.0.1][9afcdb64][ExtensionHostConnection] <10875> Extension Host Process exited with code: 0, signal: null.
+2022-12-10 18:44:17.944 [info] Cancelling previous shutdown timeout
+2022-12-10 18:44:17.944 [info] Last EH closed, waiting before shutting down
+2022-12-10 18:46:12.801 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-10 18:46:12.801 [info] Cancelling previous shutdown timeout
+2022-12-10 18:46:12.986 [info] [127.0.0.1][9856309e][ManagementConnection] New connection established.
+2022-12-10 18:46:13.029 [info] [127.0.0.1][c9d11608][ExtensionHostConnection] New connection established.
+2022-12-10 18:46:13.057 [info] [127.0.0.1][c9d11608][ExtensionHostConnection] <11278> Launched Extension Host Process.
+2022-12-10 18:46:38.703 [info] [127.0.0.1][9856309e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-10 18:46:38.733 [info] [127.0.0.1][c9d11608][ExtensionHostConnection] <11278> Extension Host Process exited with code: 0, signal: null.
+2022-12-10 18:46:38.734 [info] Cancelling previous shutdown timeout
+2022-12-10 18:46:38.734 [info] Last EH closed, waiting before shutting down
+2022-12-10 18:46:45.921 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-10 18:46:45.921 [info] Cancelling previous shutdown timeout
+2022-12-10 18:46:46.051 [info] [127.0.0.1][26446d38][ManagementConnection] New connection established.
+2022-12-10 18:46:46.103 [info] [127.0.0.1][9e928316][ExtensionHostConnection] New connection established.
+2022-12-10 18:46:46.116 [info] [127.0.0.1][9e928316][ExtensionHostConnection] <11407> Launched Extension Host Process.
+2022-12-10 18:47:38.089 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:48:15.551 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:48:26.894 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:48:38.379 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:49:00.257 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:49:09.840 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:49:28.772 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:49:40.973 [error] No ptyHost heartbeat after 12 seconds
+2022-12-10 18:50:16.864 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:52:21.018 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:53:09.174 [info] New EH opened, aborting shutdown
+2022-12-10 18:53:33.700 [error] No ptyHost heartbeat after 12 seconds
+2022-12-10 18:53:34.160 [info] [127.0.0.1][26446d38][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-10 18:53:35.141 [error] CodeExpectedError: Could not find pty on pty host
+    at h.J (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:27:6395)
+    at h.updateIcon (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:27:2715)
+    at Object.call (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:17:5110)
+    at r.q (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:5390)
+    at r.p (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:4881)
+    at /root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:4286
+    at n.invoke (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at C.deliver (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:2038)
+    at v.fire (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:1676)
+    at process.O (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:9:20886)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2022-12-10 18:53:35.173 [error] CodeExpectedError: Could not find pty on pty host
+    at h.J (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:27:6395)
+    at h.updateTitle (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:27:2665)
+    at Object.call (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:17:5110)
+    at r.q (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:5390)
+    at r.p (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:4881)
+    at /root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:4286
+    at n.invoke (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at C.deliver (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:2038)
+    at v.fire (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:1676)
+    at process.O (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:9:20886)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2022-12-10 18:53:35.174 [error] CodeExpectedError: Could not find pty on pty host
+    at h.J (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:27:6395)
+    at h.updateTitle (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:27:2665)
+    at Object.call (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:17:5110)
+    at r.q (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:5390)
+    at r.p (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:4881)
+    at /root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:4286
+    at n.invoke (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at C.deliver (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:2038)
+    at v.fire (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:1676)
+    at process.O (/root/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:9:20886)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2022-12-10 18:53:41.563 [info] [127.0.0.1][9e928316][ExtensionHostConnection] <11407> Extension Host Process exited with code: null, signal: SIGKILL.
+2022-12-10 18:53:41.573 [info] Last EH closed, waiting before shutting down
+2022-12-10 18:53:52.698 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:54:11.620 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:54:31.946 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-10 18:54:32.244 [info] Cancelling previous shutdown timeout
+2022-12-10 18:54:32.724 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:54:34.310 [info] [127.0.0.1][fd0fbcc8][ManagementConnection] New connection established.
+2022-12-10 18:54:39.449 [info] [127.0.0.1][e11aa265][ExtensionHostConnection] New connection established.
+2022-12-10 18:55:18.658 [info] [127.0.0.1][e11aa265][ExtensionHostConnection] <11988> Launched Extension Host Process.
+2022-12-10 18:56:08.261 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:57:36.217 [warning] No ptyHost heartbeat after 6 seconds

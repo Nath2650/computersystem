@@ -1,0 +1,13 @@
+2022-12-10 18:46:48.291 [info] Extension host with pid 11407 started
+2022-12-10 18:46:48.338 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/449842f3163eeccba8cbe8883fc540dc/vscode.lock': Lock acquired.
+2022-12-10 18:46:48.540 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-10 18:46:48.598 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2022-12-10 18:46:48.961 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2022-12-10 18:46:49.205 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-10 18:46:49.205 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-10 18:47:03.871 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 18:47:03.874 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 18:47:03.972 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 18:47:42.967 [info] Eager extensions activated
+2022-12-10 18:49:49.218 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2022-12-10 18:49:51.158 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:pwa-node'

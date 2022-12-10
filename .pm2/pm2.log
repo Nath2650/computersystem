@@ -1,0 +1,401 @@
+2022-12-10T18:16:27: PM2 log: ===============================================================================
+2022-12-10T18:16:27: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2022-12-10T18:16:27: PM2 log: Time                 : Sat Dec 10 2022 18:16:27 GMT+0000 (Coordinated Universal Time)
+2022-12-10T18:16:27: PM2 log: PM2 version          : 5.2.2
+2022-12-10T18:16:27: PM2 log: Node.js version      : 18.7.0
+2022-12-10T18:16:27: PM2 log: Current arch         : x64
+2022-12-10T18:16:27: PM2 log: PM2 home             : /root/.pm2
+2022-12-10T18:16:27: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2022-12-10T18:16:27: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2022-12-10T18:16:27: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2022-12-10T18:16:27: PM2 log: Application log path : /root/.pm2/logs
+2022-12-10T18:16:27: PM2 log: Worker Interval      : 30000
+2022-12-10T18:16:27: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2022-12-10T18:16:27: PM2 log: Concurrent actions   : 2
+2022-12-10T18:16:27: PM2 log: SIGTERM timeout      : 1600
+2022-12-10T18:16:27: PM2 log: ===============================================================================
+2022-12-10T18:16:27: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T18:16:27: PM2 log: App [index:0] online
+2022-12-10T18:20:32: PM2 log: Stopping app:index id:0
+2022-12-10T18:20:32: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2022-12-10T18:20:32: PM2 log: pid=8852 msg=process killed
+2022-12-10T18:22:52: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T18:22:52: PM2 log: App [index:0] online
+2022-12-10T18:26:55: PM2 log: Stopping app:index id:0
+2022-12-10T18:26:55: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2022-12-10T18:26:55: PM2 log: pid=9070 msg=process killed
+2022-12-10T18:27:06: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T18:27:06: PM2 log: App [index:0] online
+2022-12-10T18:57:57: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2022-12-10T18:57:57: PM2 log: Deleting process 0
+2022-12-10T18:57:57: PM2 log: Stopping app:index id:0
+2022-12-10T18:57:57: PM2 log: App [index:0] exited with code [0] via signal [SIGHUP]
+2022-12-10T18:57:58: PM2 log: pid=9685 msg=process killed
+2022-12-10T18:57:58: PM2 log: Exited peacefully
+2022-12-10T18:58:02: PM2 log: ===============================================================================
+2022-12-10T18:58:02: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2022-12-10T18:58:02: PM2 log: Time                 : Sat Dec 10 2022 18:58:02 GMT+0000 (Coordinated Universal Time)
+2022-12-10T18:58:02: PM2 log: PM2 version          : 5.2.2
+2022-12-10T18:58:02: PM2 log: Node.js version      : 18.7.0
+2022-12-10T18:58:02: PM2 log: Current arch         : x64
+2022-12-10T18:58:02: PM2 log: PM2 home             : /root/.pm2
+2022-12-10T18:58:02: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2022-12-10T18:58:02: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2022-12-10T18:58:02: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2022-12-10T18:58:02: PM2 log: Application log path : /root/.pm2/logs
+2022-12-10T18:58:02: PM2 log: Worker Interval      : 30000
+2022-12-10T18:58:02: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2022-12-10T18:58:02: PM2 log: Concurrent actions   : 2
+2022-12-10T18:58:02: PM2 log: SIGTERM timeout      : 1600
+2022-12-10T18:58:02: PM2 log: ===============================================================================
+2022-12-10T18:58:02: PM2 log: PM2 successfully stopped
+2022-12-10T18:59:26: PM2 log: ===============================================================================
+2022-12-10T18:59:26: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2022-12-10T18:59:26: PM2 log: Time                 : Sat Dec 10 2022 18:59:26 GMT+0000 (Coordinated Universal Time)
+2022-12-10T18:59:26: PM2 log: PM2 version          : 5.2.2
+2022-12-10T18:59:26: PM2 log: Node.js version      : 18.7.0
+2022-12-10T18:59:26: PM2 log: Current arch         : x64
+2022-12-10T18:59:26: PM2 log: PM2 home             : /root/.pm2
+2022-12-10T18:59:26: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2022-12-10T18:59:26: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2022-12-10T18:59:26: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2022-12-10T18:59:26: PM2 log: Application log path : /root/.pm2/logs
+2022-12-10T18:59:26: PM2 log: Worker Interval      : 30000
+2022-12-10T18:59:26: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2022-12-10T18:59:26: PM2 log: Concurrent actions   : 2
+2022-12-10T18:59:26: PM2 log: SIGTERM timeout      : 1600
+2022-12-10T18:59:26: PM2 log: ===============================================================================
+2022-12-10T18:59:26: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T18:59:26: PM2 log: App [index:0] online
+2022-12-10T19:03:52: PM2 log: Stopping app:index id:0
+2022-12-10T19:03:52: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2022-12-10T19:03:52: PM2 log: pid=773 msg=process killed
+2022-12-10T19:03:52: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:03:52: PM2 log: App [index:0] online
+2022-12-10T19:03:57: PM2 log: Stopping app:index id:0
+2022-12-10T19:03:57: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2022-12-10T19:03:57: PM2 log: pid=980 msg=process killed
+2022-12-10T19:04:04: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:04:04: PM2 log: App [index:0] online
+2022-12-10T19:05:14: PM2 log: Stopping app:index id:0
+2022-12-10T19:05:14: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2022-12-10T19:05:14: PM2 log: pid=1007 msg=process killed
+2022-12-10T19:05:14: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:05:14: PM2 log: App [index:0] online
+2022-12-10T19:05:40: PM2 log: Stopping app:index id:0
+2022-12-10T19:05:40: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2022-12-10T19:05:40: PM2 log: pid=1584 msg=process killed
+2022-12-10T19:05:40: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:05:40: PM2 log: App [index:0] online
+2022-12-10T19:06:14: PM2 log: Stopping app:index id:0
+2022-12-10T19:06:14: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2022-12-10T19:06:14: PM2 log: pid=1653 msg=process killed
+2022-12-10T19:06:24: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:06:24: PM2 log: App [index:0] online
+2022-12-10T19:11:18: PM2 log: Stopping app:index id:0
+2022-12-10T19:11:18: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2022-12-10T19:11:18: PM2 log: pid=1796 msg=process killed
+2022-12-10T19:11:18: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:18: PM2 log: App [index:0] online
+2022-12-10T19:11:19: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:19: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:19: PM2 log: App [index:0] online
+2022-12-10T19:11:20: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:20: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:20: PM2 log: App [index:0] online
+2022-12-10T19:11:21: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:21: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:21: PM2 log: App [index:0] online
+2022-12-10T19:11:22: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:22: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:22: PM2 log: App [index:0] online
+2022-12-10T19:11:23: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:23: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:23: PM2 log: App [index:0] online
+2022-12-10T19:11:23: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:23: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:23: PM2 log: App [index:0] online
+2022-12-10T19:11:24: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:24: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:24: PM2 log: App [index:0] online
+2022-12-10T19:11:25: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:25: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:25: PM2 log: App [index:0] online
+2022-12-10T19:11:25: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:25: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:25: PM2 log: App [index:0] online
+2022-12-10T19:11:26: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:26: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:26: PM2 log: App [index:0] online
+2022-12-10T19:11:27: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:27: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:27: PM2 log: App [index:0] online
+2022-12-10T19:11:28: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:28: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:28: PM2 log: App [index:0] online
+2022-12-10T19:11:28: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:28: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:28: PM2 log: App [index:0] online
+2022-12-10T19:11:29: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:29: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:29: PM2 log: App [index:0] online
+2022-12-10T19:11:30: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:30: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:30: PM2 log: App [index:0] online
+2022-12-10T19:11:30: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:30: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:30: PM2 log: App [index:0] online
+2022-12-10T19:11:31: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:31: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:11:31: PM2 log: App [index:0] online
+2022-12-10T19:11:32: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:11:32: PM2 log: Script /root/index.js had too many unstable restarts (16). Stopped. "errored"
+2022-12-10T19:12:00: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:00: PM2 log: App [index:0] online
+2022-12-10T19:12:00: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:00: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:00: PM2 log: App [index:0] online
+2022-12-10T19:12:01: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:01: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:01: PM2 log: App [index:0] online
+2022-12-10T19:12:02: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:02: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:02: PM2 log: App [index:0] online
+2022-12-10T19:12:03: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:03: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:03: PM2 log: App [index:0] online
+2022-12-10T19:12:03: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:03: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:03: PM2 log: App [index:0] online
+2022-12-10T19:12:04: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:04: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:04: PM2 log: App [index:0] online
+2022-12-10T19:12:04: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:04: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:04: PM2 log: App [index:0] online
+2022-12-10T19:12:05: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:05: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:05: PM2 log: App [index:0] online
+2022-12-10T19:12:06: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:06: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:06: PM2 log: App [index:0] online
+2022-12-10T19:12:06: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:06: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:06: PM2 log: App [index:0] online
+2022-12-10T19:12:07: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:07: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:07: PM2 log: App [index:0] online
+2022-12-10T19:12:07: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:07: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:07: PM2 log: App [index:0] online
+2022-12-10T19:12:08: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:08: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:08: PM2 log: App [index:0] online
+2022-12-10T19:12:09: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:09: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:09: PM2 log: App [index:0] online
+2022-12-10T19:12:09: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:09: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:09: PM2 log: App [index:0] online
+2022-12-10T19:12:10: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:10: PM2 log: Script /root/index.js had too many unstable restarts (16). Stopped. "errored"
+2022-12-10T19:12:45: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:45: PM2 log: App [index:0] online
+2022-12-10T19:12:45: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:45: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:45: PM2 log: App [index:0] online
+2022-12-10T19:12:46: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:46: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:46: PM2 log: App [index:0] online
+2022-12-10T19:12:46: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:46: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:46: PM2 log: App [index:0] online
+2022-12-10T19:12:47: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:47: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:47: PM2 log: App [index:0] online
+2022-12-10T19:12:47: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:47: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:47: PM2 log: App [index:0] online
+2022-12-10T19:12:48: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:48: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:48: PM2 log: App [index:0] online
+2022-12-10T19:12:49: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:49: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:49: PM2 log: App [index:0] online
+2022-12-10T19:12:49: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:49: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:49: PM2 log: App [index:0] online
+2022-12-10T19:12:50: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:50: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:50: PM2 log: App [index:0] online
+2022-12-10T19:12:50: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:50: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:50: PM2 log: App [index:0] online
+2022-12-10T19:12:52: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:52: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:52: PM2 log: App [index:0] online
+2022-12-10T19:12:52: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:52: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:52: PM2 log: App [index:0] online
+2022-12-10T19:12:53: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:53: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:53: PM2 log: App [index:0] online
+2022-12-10T19:12:53: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:53: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:53: PM2 log: App [index:0] online
+2022-12-10T19:12:54: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:54: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:54: PM2 log: App [index:0] online
+2022-12-10T19:12:55: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:55: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:12:55: PM2 log: App [index:0] online
+2022-12-10T19:12:55: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:12:55: PM2 log: Script /root/index.js had too many unstable restarts (16). Stopped. "errored"
+2022-12-10T19:13:30: PM2 log: Stopping app:index id:0
+2022-12-10T19:13:30: PM2 error: app=index id=0 does not have a pid
+2022-12-10T19:14:03: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:03: PM2 log: App [index:0] online
+2022-12-10T19:14:03: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:03: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:03: PM2 log: App [index:0] online
+2022-12-10T19:14:04: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:04: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:04: PM2 log: App [index:0] online
+2022-12-10T19:14:05: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:05: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:05: PM2 log: App [index:0] online
+2022-12-10T19:14:06: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:06: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:06: PM2 log: App [index:0] online
+2022-12-10T19:14:06: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:06: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:06: PM2 log: App [index:0] online
+2022-12-10T19:14:07: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:07: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:07: PM2 log: App [index:0] online
+2022-12-10T19:14:08: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:08: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:08: PM2 log: App [index:0] online
+2022-12-10T19:14:09: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:09: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:09: PM2 log: App [index:0] online
+2022-12-10T19:14:09: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:09: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:09: PM2 log: App [index:0] online
+2022-12-10T19:14:10: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:10: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:10: PM2 log: App [index:0] online
+2022-12-10T19:14:11: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:11: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:11: PM2 log: App [index:0] online
+2022-12-10T19:14:11: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:11: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:11: PM2 log: App [index:0] online
+2022-12-10T19:14:12: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:12: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:12: PM2 log: App [index:0] online
+2022-12-10T19:14:13: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:13: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:13: PM2 log: App [index:0] online
+2022-12-10T19:14:14: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:14: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:14: PM2 log: App [index:0] online
+2022-12-10T19:14:15: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:15: PM2 log: Script /root/index.js had too many unstable restarts (16). Stopped. "errored"
+2022-12-10T19:14:30: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:30: PM2 log: App [index:0] online
+2022-12-10T19:14:30: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:30: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:30: PM2 log: App [index:0] online
+2022-12-10T19:14:31: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:31: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:31: PM2 log: App [index:0] online
+2022-12-10T19:14:32: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:32: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:32: PM2 log: App [index:0] online
+2022-12-10T19:14:33: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:33: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:33: PM2 log: App [index:0] online
+2022-12-10T19:14:33: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:33: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:33: PM2 log: App [index:0] online
+2022-12-10T19:14:34: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:34: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:34: PM2 log: App [index:0] online
+2022-12-10T19:14:35: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:35: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:35: PM2 log: App [index:0] online
+2022-12-10T19:14:35: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:35: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:35: PM2 log: App [index:0] online
+2022-12-10T19:14:36: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:36: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:36: PM2 log: App [index:0] online
+2022-12-10T19:14:37: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:37: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:37: PM2 log: App [index:0] online
+2022-12-10T19:14:38: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:38: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:38: PM2 log: App [index:0] online
+2022-12-10T19:14:39: PM2 log: Stopping app:index id:0
+2022-12-10T19:14:39: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2022-12-10T19:14:39: PM2 log: pid=3089 msg=process killed
+2022-12-10T19:14:42: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:42: PM2 log: App [index:0] online
+2022-12-10T19:14:43: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:43: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:43: PM2 log: App [index:0] online
+2022-12-10T19:14:43: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:43: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:43: PM2 log: App [index:0] online
+2022-12-10T19:14:44: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:44: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:44: PM2 log: App [index:0] online
+2022-12-10T19:14:45: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:45: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:45: PM2 log: App [index:0] online
+2022-12-10T19:14:46: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:46: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:46: PM2 log: App [index:0] online
+2022-12-10T19:14:47: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:47: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:47: PM2 log: App [index:0] online
+2022-12-10T19:14:47: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:47: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:47: PM2 log: App [index:0] online
+2022-12-10T19:14:48: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:48: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:48: PM2 log: App [index:0] online
+2022-12-10T19:14:49: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:49: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:49: PM2 log: App [index:0] online
+2022-12-10T19:14:49: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:49: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:50: PM2 log: App [index:0] online
+2022-12-10T19:14:50: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:50: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:50: PM2 log: App [index:0] online
+2022-12-10T19:14:51: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:51: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:51: PM2 log: App [index:0] online
+2022-12-10T19:14:52: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:52: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:52: PM2 log: App [index:0] online
+2022-12-10T19:14:52: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:52: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:52: PM2 log: App [index:0] online
+2022-12-10T19:14:53: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:53: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:53: PM2 log: App [index:0] online
+2022-12-10T19:14:54: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:54: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:14:54: PM2 log: App [index:0] online
+2022-12-10T19:14:54: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2022-12-10T19:14:54: PM2 log: Script /root/index.js had too many unstable restarts (16). Stopped. "errored"
+2022-12-10T19:15:44: PM2 log: Stopping app:index id:0
+2022-12-10T19:15:44: PM2 error: app=index id=0 does not have a pid
+2022-12-10T19:15:47: PM2 log: App [index:0] starting in -fork mode-
+2022-12-10T19:15:47: PM2 log: App [index:0] online
+2022-12-10T19:16:17: PM2 log: Stopping app:index id:0
+2022-12-10T19:16:17: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2022-12-10T19:16:17: PM2 log: pid=3380 msg=process killed
