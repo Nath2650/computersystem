@@ -280,3 +280,20 @@ sudo npm install -g --force nodemon
 nodemon index.js
 pm2 save
 npx 
+nodemon index.js
+git init
+git push https://github.com/Nath2650/computersystem.git
+git branch
+git switch master
+git status
+git add --all
+git commit
+git push
+git push https://github.com/Nath2650/computersystem.git
+git status
+git branch
+git push origin master
+git push origin test:master
+git status
+nodemon index.js
+node index.js

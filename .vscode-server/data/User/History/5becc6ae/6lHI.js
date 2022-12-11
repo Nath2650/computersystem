@@ -11,14 +11,9 @@ app.post("/signup", (req, res) => {
        addUserToDatabase(req.body.username, req.body.password);
 })
 
-
 app.get('/redirect', (req,res) => {
   res.sendFile("register.html", {root: path.join(__dirname, "public") });
-})
 
-
-app.get('/login', (req,res) => {
-  res.sendFile("login,html", { root: path.join(__dirname, "public") });
 })
 
 
