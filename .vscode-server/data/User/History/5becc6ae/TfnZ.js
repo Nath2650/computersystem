@@ -38,11 +38,12 @@ const RegisterUser = (username, password) => {
 };
 */
 
+
 app.post("/register", bodyParser.urlencoded(), async (req, res) => {
 
   //RegisterUser(req.body.username, req.body.password);
   const userCreated = req.body
-  console.log(userCreated)
+  console.log(UserCreated)
 })
 
 

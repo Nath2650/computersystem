@@ -2,7 +2,7 @@ const express = require('express');
 const app = express.Router();
 const path = require('path');
 const bodyParser = require('body-parser');
-
+var db = require('./database_connect');
 
 app.use(express.urlencoded({extended: true}));
 app.use(express.json());
@@ -38,11 +38,12 @@ const RegisterUser = (username, password) => {
 };
 */
 
+
 app.post("/register", bodyParser.urlencoded(), async (req, res) => {
 
   //RegisterUser(req.body.username, req.body.password);
   const userCreated = req.body
-  console.log(userCreated)
+  db.registerUser(userCreated)
 })
 
 

@@ -1,299 +1,87 @@
-curl -sL https://deb.nodesource.com/setup_14.x -o nodesource_setup.sh
-sudo bash nodesource_setup.sh
-sudo apt install nodejs -y
-node -v
-npm -v
-sudo apt install npm
-npm -v
 npm init -y
-touch index.js
-Is
-ls
+npm install tedious
+npm remove node_modules
+npm i --package-lock-only
+npm audit fix
+npm i
+npm instasll
+npm install
+node index.js
+git pull 
+git pull origin
+npm cache clean --force
+npm install
 npm install express
-vim index.js
-cat index.js
+npm install -g
+npm install
+npm install froce
+npm install force
+npm install
+npm uninstall tedious -g
 node index.js
-hostname -i
-hostname -I
+npm uninstall mime -g
 node index.js
-hostname -I
-node index.js
-sudo apt install nginx
-sudo ufw app list
-sudo ufw allow 'Nginx HTTP'
-sudo ufw allow 'OpenSSH'
-systemctl status nginx
-sudo systemctl stop nginx
-sudo systemctl start nginx
-sudo systemctl stop nginx
-sudo nano /etc/nginx/sites-available/default
-sudo nginx -t
-sudo systemctl restart nginx
-node index.js
-sudo npm install pm2@latest -g
-pm2 start index.js
-pm2 startup system
-sudo env 
-PATH=$PATH:/usr/bin 
-/usr/lib/node_modules
-/pm2/bin/pm2 startup 
-systemd -u root --hp 
-/home/root
-sudo env PATH=$PATH:/usr/bin /usr/lib/node_modules/pm2/bin/pm2 startup systemd -u root --hp /home/root
-pm2 status
-sudo env 
-PATH=$PATH:/usr/bin 
-/usr/lib/node_modules
-/pm2/bin/pm2 startup 
-systemd -u root --hp 
-/home/root
-sudo env PATH=$PATH:/usr/bin /usr/lib/node_modules/pm2/bin/pm2 startup systemd -u root --hp /home/root
-node index.js
-pm2 system
-pm2 status
-pm2 start index.js
-pm2 stop index.js
-pm2 status
-PATH=$PATH:/usr/bin 
-/usr/lib/node_modules
-/pm2/bin/pm2 startup 
-system -u root --hp 
-/home/root
-pm2 startup systemd
-pm2 status
-PATH=$PATH:/usr/bin 
-/usr/lib/node_modules
-/pm2/bin/pm2 startup 
-systemd -u root --hp 
-/home/root
-pm2 status
-pm2 start index.js
-pm2 startup systemd
-pm2 status
-sudo env PATH=$PATH:/usr/bin /usr/lib/node_modules/pm2/bin/pm2 startup systemd -u root --hp /home/root
-sudo env PATH=$PATH:/user/bin /user/lib/node_modules/pm2/bin/pm2 startup systemd -u root --hp /home/root
-ls
-pm2 save
-sudo systemctl start pm2-root
-pm2 status
-systemctl status pm2-root
-sudo apt install openssh-server
-sudo ufw allow ssh
-hostname -I
-pm2 stop
-systemctl status pm2-root
-pm2 status
-pm2 index.js
-pm2 stop index.js
-pm2 status
-pm2 start index.js
-pm2 start index.js
-hostname -I
-pm2 status
-sudo env 
-PATH=$PATH:/usr/bin 
-/usr/lib/node_modules
-/pm2/bin/pm2 startup 
-systemd -u root --hp 
-/home/root
-sudo env PATH=$PATH:/usr/bin/usr/lib/node_modules/pm2/bin/pm2 startup systemd -u root --hp/home/root
-sudo env PATH=$PATH:/usr/bin/usr/lib/node_modules/pm2/bin/pm2 startup systemd -u root --hp /home/root
-sudo env PATH=$PATH:/usr/bin /usr/lib/node_modules/pm2/bin/pm2 startup systemd -u root --hp /home/root
-sudo apt install pm2
-npm install pm
-sudo env PATH=$PATH:/usr/bin /usr/lib/node_modules/pm2/bin/pm2 startup systemd -u root --hp /home/root
-pm2 save
-pm2 status
-pm2 restart index.js
-pm2 stop index.js
-pm2 start index.js
-pm2 restart
-pm2 restart index.js
-pm2 stop
-pm2 stop 0
-pm start 0
+npm install mime
+npm install mime -g
 pm2 start 0
-pm2 restart 0
-pm2 start index.js
-pm2 restart 0
-pm2 stop server.js
-pm2 stop 0
-pm2 start 0
-pm2 restart 0
-pm2 stop 0
-pm2 start 0
-pm2 stop 0
-pm2 start 0
-pm2 stop 0
-git init
-git branch
-git branches
-git --help
-git branch
-git branch test
-git branch create test
-git branch create
-git branch lol
-git branch master
-git init
-git branch test
-git commit
-git config Nath2650 "Nathanael"
-git conif --global Nath2650 Nath
-git config --global Nath2650 Nath
-git config --global nathg2650@hotmail.com nath
-git config
-git commit
-git config --global user.email "nathg2650@hotmail.com"
-git commit
-git add -all
+git log
+git pull 0f6cc4560c5dc44ffc6c4abf17fd006edb28dff6
+git checkout 0f6cc4560c5dc44ffc6c4abf17fd006edb28dff6
+git status
+git log
+git checkout 24c8facdc0a0cea14c1444756964d01f775f84b4
+git status
+git restore --all
+git restore
+git restore -A
+git status
 git add --all
+git commit -a
+git log
+git checkout 9f4895b4ca17247d2c50950005d185578d5ee60a
+git status
+git add --all
+git status
+git add --all
+git status
 git commit
 git status
-git branch
-git branch test
-git branch
-git switch test
-git branch switxh test
-git branch switch test
+git add --all
 git status
-git branch
-git branch -d switch
-git branch -d switxh
-git push
-git push https://github.com/Nath2650/computersystem.git
-git branch
+git add --all
+git status
+git restore .vscode-server/data/logs/20221211T122751/exthost10/vscode.git/Git.log
+git status
+git commit
+git status
 git branch master
+git branch
+git checkout master
+git checkout test
+git status
+git add --all
+node index.js
+git log
+node index.js
+pm2 status
+pm2 stop 0
+node index.js
+git log
+git checkout 8702e1fc73905c0096af966e56c5e9633dbfb3b5
+git switch 8702e1fc73905c0096af966e56c5e9633dbfb3b5
+git status
 git branch
 git switch master
-git push https://github.com/Nath2650/computersystem.git
-git status
-git branch
-git branch test
 git switch test
 git status
-git branch
-pm2 start 0
-pm2 stop 0
-pm2 start 0
-npm install 
-pm2 restart 0
-pm2 stop 0
-pm2 start 0
-git branch
-git pull https://github.com/slytter/cbs-password-hashing 
-git config pull.rebase false
-git pull https://github.com/slytter/cbs-password-hashing 
-git status
-git add --all
-git pull https://github.com/slytter/cbs-password-hashing 
-git pull https://github.com/slytter/cbs-password-hashing --allow-unrelated-histories
-pm2 stop
-pm2 stop 0
-pm start 0
-pm2 start 0
-pm2 stop 0
-pm2 start 0
-pm2 restart 0
-git branch
-git commit
-git status
-pm2 restart 0
-npm install
-pm2 restart 0
-sudo systemctl reload nginx
-systemctl status
-pm2 start 0
-pm2 stop 0
-node index.js
-pm2 status
-pm2 start 0
-pm2 stop 0
-nodemon index.js
-npm install nodemon
-nodemon index.js
-npm install nodemon
-nodemon index.js
-node index.js
-pm2 start 0
-pm2 stop 0
-npm install node
-pm2 install node
-pm2 status
-npm install node.js
-node index.js
-pm2 status
-pm2 stop
-pm2 stop 0
-pm2 stop 1
-pm2 uninstall node
-pm2 status
-node index.js
-npm install
-node index.js
-pm2 status
-pm2 restart 0
---update-env
-sudo env 
-PATH=$PATH:/usr/bin 
-/usr/lib/node_modules
-/pm2/bin/pm2 startup 
-systemd -u root --hp 
-/home/root
-sudo env PATH=$PATH:/usr/bin/usr/lib/node_modules/pm2/bin/pm2 startup systemd -u root --hp /home/root
-sudo env PATH=$PATH:/usr/local/bin/usr/lib/node_modules/pm2/bin/pm2 startup systemd -u root --hp /home/root
-sudo env PATH=$PATH:/usr/bin/usr/lib/node_modules/pm2/bin/pm2startupsystemd -u root --hp /home/root
-sudo env
-sudo env PATH = $PATH:/usr/local/bin/usr/lib/node_modules/pm2/bin/pm2 startup systemd -u root --hp /home/root
-sudo env PATH =$PATH:/usr/local/bin/usr/lib/node_modules/pm2/bin/pm2 startup systemd -u root --hp /home/root
-sudo env PATH =$PATH:/usr/bin /usr/lib/node_modules/pm2/bin/pm2 startup systemd -u root --hp /home/root
-sudo env PATH=$PATH:/usr/bin /usr/lib/node_modules/pm2/bin/pm2 startup systemd -u root --hp /home/root
-pm2 save
-sudo env PATH=$PATH:/usr/bin /usr/lib/node_modules/pm2/bin/pm2 startup systemd -u root --hp /home/root
-pm2 start index.js
-pm2 stop index.js
-pm2 start index.js
-node index.js
-pm2 status
-pm2 start 0
-pm2 restart 0
-pm2 stop 0
-node index.js
-pm2 start 0
-pm2 status
-pm2 stop 0
-pm2 start 0
-pm2 restart 0
-pm2 2 restart
-pm2 restart 0
-pm2 status
-pm2 stop 0
-node index.js
-pm2 status
-pm2 start 0
-pm2 stop 0
-pm2 start 0
-pm2 stop 0
-node index.js
-nodemon index.js
-sudo npm install -g --force nodemon
-nodemon index.js
-pm2 save
-npx 
-nodemon index.js
-git init
-git push https://github.com/Nath2650/computersystem.git
-git branch
 git switch master
 git status
 git add --all
 git commit
-git push
-git push https://github.com/Nath2650/computersystem.git
-git status
-git branch
-git push origin master
-git push origin test:master
-git status
+git switch master
+git switch test
+node index.js
+nodemon .
 nodemon index.js
+pm2 status
 node index.js
