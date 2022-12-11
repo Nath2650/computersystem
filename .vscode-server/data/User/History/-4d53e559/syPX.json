@@ -1,0 +1,16 @@
+{
+    "server": "tcp:compserver.database.windows.net,1433",
+    "authentication": {
+        "type": "default",
+        "options": {
+            "userName": "nath2650",
+            "password": "794613LOLlol"
+        }
+    },
+    "options": {
+        "encrypt": true,
+        "database": "ComputerSystem",
+        "trustServerCertificate": false,
+        "rowCollectionOnRequestCompletion": true
+    }
+}
